@@ -71,3 +71,4 @@ model Guestbook {
     name      String
     message   String   @db.VarChar(100)
 }
+// This is your Prisma schema file,
